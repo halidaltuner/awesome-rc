@@ -11,5 +11,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Table of Contents
 
 - [Hardware](#hardware)
+- [Software](#software)
+  - [Operating systems](#operating-systems)
+- [Blogs](#blogs)
+- [Youtube Channels](#youtube-channels)
 
 ### Hardware
