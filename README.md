@@ -28,7 +28,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 #### Operating Systems
 
-#### Libraries/Firmwares
+#### Libraries
 
 - [Car-Controller](https://github.com/jabelone/car-controller) - An arduino firmware that outputs a PWM signal for steering motor control via serial.
 - [DIY-Multiprotocol-TX-Module](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module) - DIY Multiprotocol TX Module
