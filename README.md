@@ -51,7 +51,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Channels
  - [Reddit RC Cars](https://www.reddit.com/r/rccars/) - Subreddit devoted to RC Cars, Buggies, Truggies, Short Course Trucks, and everything in-between!
- - [Radio Control](https://www.reddit.com/r/radiocontrol/) - A place to share anything related to radio control (RC), whether it's airplanes, cars, helicopters, multicopters (hexacopters, quadcopters, etc), boats, sails, trucks, submarines, cats, etc.
-
+ - [Reddit Radio Control](https://www.reddit.com/r/radiocontrol/) - A place to share anything related to radio control (RC), whether it's airplanes, cars, helicopters, multicopters (hexacopters, quadcopters, etc), boats, sails, trucks, submarines, cats, etc.
+ - [Reddit RCPlanes](https://www.reddit.com/r/RCPlanes/) - A place to show, talk about, get answers or any thing about Radio controlled Planes
+ - [Reddit RemoteControl](https://www.reddit.com/r/RemoteControl/)
 
 ### Youtube Channels
