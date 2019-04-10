@@ -11,9 +11,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Table of Contents
 
 - [Hardware](#hardware)
+  - [Controllers](#controllers)
 - [Software](#software)
   - [Operating systems](#operating-systems)
-  - [Libraries](#libraries)
+  - [Libraries/Firmwares](#libraries/firmwares)
 - [Blogs](#blogs)
 - [Projects](#projects)
 - [Papers](#papers)
@@ -21,13 +22,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Hardware
 
+#### Controllers
+
 ### Software
 
 #### Operating Systems
 
-#### Libraries
+#### Libraries/Firmwares
 
 - [Car-Controller](https://github.com/jabelone/car-controller) - An arduino firmware that outputs a PWM signal for steering motor control via serial.
+- [DIY-Multiprotocol-TX-Module](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module) - DIY Multiprotocol TX Module
+- [Er9x and Ersky9x](http://www.er9x.com/) - Custom firmware for the Eurgle/FlySky/Imax/Turnigy 9x r/c Transmitter
 
 ### Projects
 
