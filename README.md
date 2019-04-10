@@ -14,7 +14,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Controllers](#controllers)
 - [Software](#software)
   - [Operating systems](#operating-systems)
-  - [Libraries/Firmwares](#libraries/firmwares)
+  - [Libraries - Firmwares](#libraries)
 - [Blogs](#blogs)
 - [Projects](#projects)
 - [Papers](#papers)
