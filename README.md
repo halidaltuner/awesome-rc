@@ -24,7 +24,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 #### Controllers
 
-
 ### Software
 
 #### Operating Systems
@@ -37,13 +36,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 
 ### Blogs
-
+ - [Becoming Human](https://becominghuman.ai/building-self-driving-rc-car-series-1-intro-equipments-plan-8d9f579df45c) - Building Self-Driving RC Car Series #1
+ - [Zheng Wang](https://zhengludwig.wordpress.com/projects/self-driving-rc-car/) - Self Driving RC Car
+ - [Galen Ballew](https://medium.com/@galen.ballew/opencv-lanedetection-419361364fc0) - Building a lane detection system using Python 3 and OpenCV
+ 
 
 ### Projects
  - [AutoRCCar](https://github.com/hamuchiwa/AutoRCCar) - OpenCV Python Neural Network Autonomous RC Car
  - [Suiron](https://github.com/kendricktan/suiron) - Machine Learning for RC Cars
  - [autonomous-rc-car](https://github.com/multunus/autonomous-rc-car) - Autonomous RC car using Raspberry Pi and ANN
- 
+ - [RC](https://github.com/NE-RC/RC) - A project focused on outfitting a 1/10th scale RC car with the necessary sensors and software to be a functioning autonomous vehicle.
+ - [robo_car](https://github.com/bierschi/robo_car) - remote-controlled & autonomous driving robotic car
+
 
 ### Papers
  - [End to End Learning for Self-Driving Cars](https://arxiv.org/pdf/1604.07316v1.pdf)
