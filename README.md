@@ -47,6 +47,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  - [autonomous-rc-car](https://github.com/multunus/autonomous-rc-car) - Autonomous RC car using Raspberry Pi and ANN
  - [RC](https://github.com/NE-RC/RC) - A project focused on outfitting a 1/10th scale RC car with the necessary sensors and software to be a functioning autonomous vehicle.
  - [robo_car](https://github.com/bierschi/robo_car) - remote-controlled & autonomous driving robotic car
+ - [SelfParkingCar](https://github.com/vv258/Self-Parking-Car) - A low-cost prototype for implementing autonomous parallel parking on a Robot Car with a RaspberryPi
 
 
 ### Papers
