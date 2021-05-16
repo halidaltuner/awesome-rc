@@ -33,13 +33,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [DIY-Multiprotocol-TX-Module](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module) - DIY Multiprotocol TX Module
 - [Er9x and Ersky9x](http://www.er9x.com/) - Custom firmware for the Eurgle/FlySky/Imax/Turnigy 9x r/c Transmitter
 - [openLRSng](https://openlrsng.org/) - OpenLRS is the first opensource LRS(long range system) for RC Hobbyists, Robotic Fans and Amateur UAV projects.
+- [OpenTX](https://github.com/opentx/opentx) - Custom open source firmware for transmitters
+- [ExpressLRS](https://github.com/ExpressLRS/ExpressLRS) - STM32/ESP32/ESP8285 based high performance radio link
 
 
 ### Blogs
  - [Becoming Human](https://becominghuman.ai/building-self-driving-rc-car-series-1-intro-equipments-plan-8d9f579df45c) - Building Self-Driving RC Car Series #1
  - [Zheng Wang](https://zhengludwig.wordpress.com/projects/self-driving-rc-car/) - Self Driving RC Car
  - [Galen Ballew](https://medium.com/@galen.ballew/opencv-lanedetection-419361364fc0) - Building a lane detection system using Python 3 and OpenCV
- 
+
 
 ### Projects
  - [AutoRCCar](https://github.com/hamuchiwa/AutoRCCar) - OpenCV Python Neural Network Autonomous RC Car
@@ -52,7 +54,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Papers
  - [End to End Learning for Self-Driving Cars](https://arxiv.org/pdf/1604.07316v1.pdf)
- 
+
 
 ### Channels
  - [Reddit RC Cars](https://www.reddit.com/r/rccars/) - Subreddit devoted to RC Cars, Buggies, Truggies, Short Course Trucks, and everything in-between!
